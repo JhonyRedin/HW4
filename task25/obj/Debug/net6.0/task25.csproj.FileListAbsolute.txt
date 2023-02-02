@@ -1,0 +1,15 @@
+/Users/georgy/Study/intro_to_programming/HW4/task25/obj/Debug/net6.0/task25.csproj.AssemblyReference.cache
+/Users/georgy/Study/intro_to_programming/HW4/task25/obj/Debug/net6.0/task25.GeneratedMSBuildEditorConfig.editorconfig
+/Users/georgy/Study/intro_to_programming/HW4/task25/obj/Debug/net6.0/task25.AssemblyInfoInputs.cache
+/Users/georgy/Study/intro_to_programming/HW4/task25/obj/Debug/net6.0/task25.AssemblyInfo.cs
+/Users/georgy/Study/intro_to_programming/HW4/task25/obj/Debug/net6.0/task25.csproj.CoreCompileInputs.cache
+/Users/georgy/Study/intro_to_programming/HW4/task25/bin/Debug/net6.0/task25
+/Users/georgy/Study/intro_to_programming/HW4/task25/bin/Debug/net6.0/task25.deps.json
+/Users/georgy/Study/intro_to_programming/HW4/task25/bin/Debug/net6.0/task25.runtimeconfig.json
+/Users/georgy/Study/intro_to_programming/HW4/task25/bin/Debug/net6.0/task25.dll
+/Users/georgy/Study/intro_to_programming/HW4/task25/bin/Debug/net6.0/task25.pdb
+/Users/georgy/Study/intro_to_programming/HW4/task25/obj/Debug/net6.0/task25.dll
+/Users/georgy/Study/intro_to_programming/HW4/task25/obj/Debug/net6.0/refint/task25.dll
+/Users/georgy/Study/intro_to_programming/HW4/task25/obj/Debug/net6.0/task25.pdb
+/Users/georgy/Study/intro_to_programming/HW4/task25/obj/Debug/net6.0/task25.genruntimeconfig.cache
+/Users/georgy/Study/intro_to_programming/HW4/task25/obj/Debug/net6.0/ref/task25.dll
