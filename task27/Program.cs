@@ -10,7 +10,7 @@ int InputNumber2(string message)
     while (true)
     {
         System.Console.Write(message);
-        if (!(int.TryParse(Console.ReadLine(), out number)) && number % 10 == 0)
+        if (!(int.TryParse(Console.ReadLine(), out number)))
         {
             System.Console.WriteLine("Введено некорректное число, попробуйте ещё раз.");
         }
