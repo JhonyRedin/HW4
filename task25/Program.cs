@@ -37,7 +37,7 @@ int InputNumber2(string message)
     return number;
 }
 
-int Exponent ( int number, int exp)
+int Exponent(int number, int exp)
 {
     int result = number;
     for (int i = 1; i < exp; i++)
@@ -47,8 +47,8 @@ int Exponent ( int number, int exp)
     return result;
 }
 
-int A =InputNumber ("Введите число А: ");
-int B = InputNumber2 ("Введите число B: ");
+int A = InputNumber("Введите число А: ");
+int B = InputNumber2("Введите число B: ");
 
-int res = Exponent (A,B);
+int res = Exponent(A, B);
 System.Console.WriteLine($"Результат возведения числа {A} в степень {B}: {res}");
